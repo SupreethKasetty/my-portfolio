@@ -258,10 +258,10 @@ input,textarea {
   display: inline-block;
   font-size: 14px;
   font-weight: 700;
-  background: #ff1c4b;
+  background: #B8D22C;
   letter-spacing: 1px;
   text-transform: uppercase;
-  border: 2px solid #ff1c4b;
+  border: 2px solid #B8D22C;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -282,10 +282,10 @@ input,textarea {
   font-size: 14px;
   font-weight: 700;
   cursor:  pointer;
-  background: #ff1c4b;
+  background: #B8D22C;
   letter-spacing: 1px;
   text-transform: uppercase;
-  border: 2px solid #ff1c4b;
+  border: 2px solid #B8D22C;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -307,7 +307,7 @@ input,textarea {
 }
 
 .btn-style-three:hover {
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 /*Btn Style four*/
@@ -322,10 +322,10 @@ input,textarea {
   display: inline-block;
   font-size: 14px;
   font-weight: 700;
-  background: #ff1c4b;
+  background: #B8D22C;
   letter-spacing: 1px;
   text-transform: uppercase;
-  border: 2px solid #ff1c4b;
+  border: 2px solid #B8D22C;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -554,7 +554,7 @@ input,textarea {
 
 .social-icon-one li a:hover {
   color: #ffffff;
-  background-color: #ff1c4b;
+  background-color: #B8D22C;
 }
 
 /*list-style-one*/
@@ -615,7 +615,7 @@ input,textarea {
   color: #fff;
   text-align: center;
   cursor: pointer;
-  background: #ff1c4b;
+  background: #B8D22C;
   -webkit-animation: pulse 2s infinite;
   -o-animation: pulse 2s infinite;
   animation: pulse 2s infinite;
@@ -763,7 +763,7 @@ input,textarea {
 .main-menu .navigation > li:hover > a, 
 .main-menu .navigation > li.current > a, 
 .main-menu .navigation > li.current-menu-item > a {
-  color: #ff1c4b;
+  color: #B8D22C;
   opacity: 1;
 }
 
@@ -1080,7 +1080,7 @@ input,textarea {
   padding: 0;
   list-style: none;
   font-size: 18px;
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 .breadcumb-wrapper ul.link-list li a {
   color: #fff;
@@ -1231,8 +1231,8 @@ input,textarea {
 .styled-pagination li a:hover,
 .styled-pagination li a.active{
   color:#ffffff;
-  border-color: #ff1c4b;
-  background-color: #ff1c4b;
+  border-color: #B8D22C;
+  background-color: #B8D22C;
 }
 
 
@@ -1458,7 +1458,7 @@ input,textarea {
 }
 
 .error-search-box .form-group input:focus{
-  border-color:#ff1c4b;
+  border-color:#B8D22C;
 }
 
 .error-search-box .form-group button{
@@ -1474,7 +1474,7 @@ input,textarea {
   color: #fff;
   border-radius:0px 3px 3px 0px;
   font-weight:normal;
-  background: #ff1c4b;
+  background: #B8D22C;
 }
 
 .error-search-box .form-group input:focus + button,
@@ -1543,7 +1543,7 @@ input,textarea {
 }
 
 .video-section .video-fancybox:hover .play-icon{
-  color:#ff1c4b;
+  color:#B8D22C;
   -webkit-transform:scale(1.1,1.1); 
   -ms-transform:scale(1.1,1.1); 
   -o-transform:scale(1.1,1.1);  
@@ -1593,7 +1593,7 @@ input,textarea {
   color: #fff;
 }
 .filters-style-one .filter-tabs li.active {
-  border-bottom: 1px solid #ff1c4b;
+  border-bottom: 1px solid #B8D22C;
   color: #fff;
 }
 
@@ -1616,7 +1616,7 @@ input,textarea {
   color: #fff;
 }
 .filters-style-two .filter-tabs li.active {
-  border-bottom: 1px solid #ff1c4b;
+  border-bottom: 1px solid #B8D22C;
   color: #fff;
 }
 
@@ -1717,7 +1717,7 @@ input,textarea {
 }
 
 .default-portfolio-item .overlay-content h3 a:hover{
-  color:#ff1c4b;
+  color:#B8D22C;
 }
 
 .default-portfolio-item .overlay-content .categories{
@@ -1812,7 +1812,7 @@ input,textarea {
 }
 
 .services-block-one:hover .inner-box .icon{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .services-block-one .inner-box .icon span:before{
@@ -1835,7 +1835,7 @@ input,textarea {
 }
 
 .services-block-one .inner-box h3 a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .services-block-one .inner-box .text{
@@ -1881,7 +1881,7 @@ input,textarea {
 }
 
 .services-block-two:hover .inner-box .icon span{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .services-block-two .inner-box .icon span:before{
@@ -1903,7 +1903,7 @@ input,textarea {
 }
 
 .services-block-two .inner-box h3 a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .services-block-two .inner-box .text{
@@ -2043,7 +2043,7 @@ input,textarea {
   transition: .5s;
 }
 .news-block .inner-box .lower-box .author li a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
   transition: .5s;
 }
 .news-block .inner-box .lower-box .author li i{
@@ -2072,7 +2072,7 @@ input,textarea {
 }
 
 .news-block .inner-box .lower-box h3 a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .news-block .inner-box .lower-box .post-meta{
@@ -2099,7 +2099,7 @@ input,textarea {
 }
 
 .news-block .inner-box:hover .lower-box .post-meta li a .icon{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 
@@ -2125,7 +2125,7 @@ input,textarea {
   transition: .5s;
 }
 .blog-single .inner-box .lower-box .author li a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
   transition: .5s;
 }
 .blog-single .inner-box .lower-box .author li i{
@@ -2161,7 +2161,7 @@ input,textarea {
   line-height: 1.2em;
   padding: 30px;
   background: #131313;
-  border-left: 1px solid #ff1c4b;
+  border-left: 1px solid #B8D22C;
   margin-top: 30px;
   margin-bottom: 30px;
   font-style: italic;
@@ -2454,7 +2454,7 @@ input,textarea {
   text-transform: capitalize;
 }
 .projects-block-one.style-2 .caption h3 a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 .projects-block-one .caption-title h3 a {
   color: #fff;
@@ -2466,7 +2466,7 @@ input,textarea {
 }
 
 .projects-block-one .caption-title h3 a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .projects-block-one:hover .caption-title h3,
@@ -2900,7 +2900,7 @@ input,textarea {
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group select:focus,
 .contact-form .form-group textarea:focus{
-  border-color:#ff1c4b;
+  border-color:#B8D22C;
 }
 
 .contact-form .form-group textarea{
@@ -3007,7 +3007,7 @@ input,textarea {
 }
 
 .new-posts a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .new-posts .grid-btn{
@@ -3117,7 +3117,7 @@ input,textarea {
   font-size:16px;
   color:#ffffff;
   line-height:100%;
-  background: #ff1c4b;
+  background: #B8D22C;
   font-weight:normal;
 }
 
@@ -3167,7 +3167,7 @@ input,textarea {
 }
 
 .blog-cat li a:hover{
-  color:#ff1c4b;
+  color:#B8D22C;
 }
 
 /*Post Widget*/
@@ -3227,7 +3227,7 @@ input,textarea {
 
 .sidebar .popular-posts .post a,
 .sidebar .popular-posts .post a:hover{
-  color: #ff1c4b;
+  color: #B8D22C;
 }
 
 .sidebar .popular-posts .post-info{
@@ -3257,8 +3257,8 @@ input,textarea {
 }
 
 .sidebar .popular-tags a:hover{
-  border-color: #ff1c4b;
-  background-color: #ff1c4b;
+  border-color: #B8D22C;
+  background-color: #B8D22C;
   color:#ffffff;
 }
 
